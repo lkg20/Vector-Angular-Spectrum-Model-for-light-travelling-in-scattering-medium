@@ -14,3 +14,6 @@ VAS.m: Main program of the VAS model, one can tune the parameters of the scatter
 r_cal.m: Calculating the polarization transformation ratio.  
 mie_cal.m: Calculating various parameters of the scattering medium based on Mie theory.  
 Mie.m, Mie_abcd.m, Mie_pt.m, Mie_S12.m: A package for Mie calculation created by Christian Maetzler in 2002, based on the appendix in Bohren and Huffman (1982).  
+
+If you find this repository useful, please cite by:  
+Vector Angular Spectrum Model for light travelling in scattering media, arXiv:2406.08888.
