@@ -6,3 +6,4 @@ Step for a simulation:
 1. Release all .m files in a same folder;
 2. Modify the parameters and simulation conditions in VAS.m;
 3. Run VAS.m and we can get the following two figures with default settings:
+![alt text](image_path)
