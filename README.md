@@ -8,3 +8,9 @@ Step for a simulation:
 3. Run VAS.m and we can get the following two figures with default settings:
 
 ![image1](1.jpg)    ![image1](1.jpg)
+
+Files:
+VAS.m: Main program of the VAS model, one can tune the parameters of the scattering medium or simulation in this file.
+r_cal.m: Calculating the polarization transformation ratio.
+mie_cal.m: Calculating various parameters of the scattering medium based on Mie theory.
+Mie.m, Mie_abcd.m, Mie_pt.m, Mie_S12.m: A package for Mie calculation created by Christian Maetzler in 2002, based on the appendix in Bohren and Huffman (1982).
