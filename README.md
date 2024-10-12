@@ -16,4 +16,4 @@ mie_cal.m: Calculating various parameters of the scattering medium based on Mie 
 Mie.m, Mie_abcd.m, Mie_pt.m, Mie_S12.m: A package for Mie calculation created by Christian Maetzler in 2002, based on the appendix in Bohren and Huffman (1982).  
 
 If you find this repository useful, please cite by:  
-Vector Angular Spectrum Model for light travelling in scattering media, arXiv:2406.08888.
+Kaige Liu, Hengkang Zhang, Zeqi Liu, Bin Zhang, Xing Fu, Qiang Yuan, Qiang Liu; Vector angular spectrum model for light traveling in scattering media. APL Photonics 1 October 2024; 9 (10): 106110. https://doi.org/10.1063/5.0225506
